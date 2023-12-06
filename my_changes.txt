@@ -1,0 +1,130 @@
+import React5 from react;   // importing react from react
+class component
+
+{
+games.automation,robotics process
+}
+class bmsce
+{
+football,badminton
+}
+
+class harshit extends component,bmsce
+{
+   constructor (props) 
+{
+
+    super props();
+this.state{
+      //we can define component state here in reference of same module  in background
+
+}
+
+componet DIDmodules{
+    gallery = increment.(" www.google.com");
+
+}
+
+class harshit 
+return()
+{
+<div>
+//any container
+
+</div>
+
+}
+}
+};
+
+
+use mydatabase;
+create db.mydatabase("collection");
+
+const monoDB= require('mongoDB')(a);
+a.MongoClient;
+
+const interview=new MongoClient(uri);
+
+
+
+//indexing
+interview.connect=(err =>{
+
+constant collection = interview.db("indexing done").connecton("mydatabse");
+{
+     
+
+
+}
+
+
+
+db.dropConnection;
+
+Mysql
+Create table Dynamic Haelo(
+     SHOES (int),
+     
+    
+
+
+);
+
+
+productprice
+location
+productname
+
+INSERT INTO dYNAMIC_HAELO("1000", "Bangalore
+
+select
+productprice        location       productname
+
+ 
+                   bangalore
+                    bangalore    A
+
+
+
+
+
+
+
+
+                   chennai         
+
+check = $hold("bengaluru")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
